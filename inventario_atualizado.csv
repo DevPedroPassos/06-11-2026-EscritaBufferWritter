@@ -1,0 +1,101 @@
+HOST,IP,SISTEMA_OPERACIONAL,criticidade,status,data_auditoria,risco
+SRVWEB001,192.168.1.1,Linux,Media,Em Monitoramento,2026-11-06,5
+SRVWEB002,192.168.1.2,Linux,Media,Em Monitoramento,2026-11-06,5
+SRVWEB003,192.168.1.3,Linux,Media,Em Monitoramento,2026-11-06,5
+SRVWEB004,192.168.1.4,Linux,Media,Em Monitoramento,2026-11-06,5
+SRVWEB005,192.168.1.5,Linux,Media,Em Monitoramento,2026-11-06,5
+SRVAPP001,192.168.1.6,Linux,Media,Em Monitoramento,2026-11-06,5
+SRVAPP002,192.168.1.7,Linux,Media,Em Monitoramento,2026-11-06,5
+SRVAPP003,192.168.1.8,Linux,Media,Em Monitoramento,2026-11-06,5
+SRVAPP004,192.168.1.9,Linux,Media,Em Monitoramento,2026-11-06,5
+SRVAPP005,192.168.1.10,Linux,Media,Em Monitoramento,2026-11-06,5
+SRVDB001,192.168.1.11,Linux,Media,Em Monitoramento,2026-11-06,5
+SRVDB002,192.168.1.12,Linux,Media,Em Monitoramento,2026-11-06,5
+SRVDB003,192.168.1.13,Linux,Media,Em Monitoramento,2026-11-06,5
+SRVDB004,192.168.1.14,Linux,Media,Em Monitoramento,2026-11-06,5
+SRVDB005,192.168.1.15,Linux,Media,Em Monitoramento,2026-11-06,5
+NOTE001,192.168.1.16,Windows,Media,Online,2026-11-06,5
+NOTE002,192.168.1.17,Windows,Media,Online,2026-11-06,5
+NOTE003,192.168.1.18,Windows,Media,Online,2026-11-06,5
+NOTE004,192.168.1.19,Windows,Media,Online,2026-11-06,5
+NOTE005,192.168.1.20,Windows,Media,Online,2026-11-06,5
+NOTE006,192.168.1.21,Windows,Media,Online,2026-11-06,5
+NOTE007,192.168.1.22,Windows,Media,Online,2026-11-06,5
+NOTE008,192.168.1.23,Windows,Media,Online,2026-11-06,5
+NOTE009,192.168.1.24,Windows,Media,Online,2026-11-06,5
+NOTE010,192.168.1.25,Windows,Media,Online,2026-11-06,5
+NOTE011,192.168.1.26,Windows,Media,Online,2026-11-06,5
+NOTE012,192.168.1.27,Windows,Media,Online,2026-11-06,5
+NOTE013,192.168.1.28,Windows,Media,Online,2026-11-06,5
+NOTE014,192.168.1.29,Windows,Media,Online,2026-11-06,5
+NOTE015,192.168.1.30,Windows,Media,Online,2026-11-06,5
+NOTE016,192.168.1.31,Windows,Media,Online,2026-11-06,5
+NOTE017,192.168.1.32,Windows,Media,Online,2026-11-06,5
+NOTE018,192.168.1.33,Windows,Media,Online,2026-11-06,5
+NOTE019,192.168.1.34,Windows,Media,Online,2026-11-06,5
+NOTE020,192.168.1.35,Windows,Media,Online,2026-11-06,5
+FW001,192.168.1.36,Firewall,Media,Não definido,2026-11-06,5
+FW002,192.168.1.37,Firewall,Media,Não definido,2026-11-06,5
+FW003,192.168.1.38,Firewall,Media,Não definido,2026-11-06,5
+FW004,192.168.1.39,Firewall,Media,Não definido,2026-11-06,5
+FW005,192.168.1.40,Firewall,Media,Não definido,2026-11-06,5
+SW001,192.168.1.41,Switch,Media,Não definido,2026-11-06,5
+SW002,192.168.1.42,Switch,Media,Não definido,2026-11-06,5
+SW003,192.168.1.43,Switch,Media,Não definido,2026-11-06,5
+SW004,192.168.1.44,Switch,Media,Não definido,2026-11-06,5
+SW005,192.168.1.45,Switch,Media,Não definido,2026-11-06,5
+SW006,192.168.1.46,Switch,Media,Não definido,2026-11-06,5
+SW007,192.168.1.47,Switch,Media,Não definido,2026-11-06,5
+SW008,192.168.1.48,Switch,Media,Não definido,2026-11-06,5
+SW009,192.168.1.49,Switch,Media,Não definido,2026-11-06,5
+SW010,192.168.1.50,Switch,Media,Não definido,2026-11-06,5
+RTR001,192.168.1.51,Router,Media,Não definido,2026-11-06,5
+RTR002,192.168.1.52,Router,Media,Não definido,2026-11-06,5
+RTR003,192.168.1.53,Router,Media,Não definido,2026-11-06,5
+RTR004,192.168.1.54,Router,Media,Não definido,2026-11-06,5
+RTR005,192.168.1.55,Router,Media,Não definido,2026-11-06,5
+PRN001,192.168.1.56,Impressora,Media,Não definido,2026-11-06,5
+PRN002,192.168.1.57,Impressora,Media,Não definido,2026-11-06,5
+PRN003,192.168.1.58,Impressora,Media,Não definido,2026-11-06,5
+PRN004,192.168.1.59,Impressora,Media,Não definido,2026-11-06,5
+PRN005,192.168.1.60,Impressora,Media,Não definido,2026-11-06,5
+CAM001,192.168.1.61,Camera,Media,Não definido,2026-11-06,5
+CAM002,192.168.1.62,Camera,Media,Não definido,2026-11-06,5
+CAM003,192.168.1.63,Camera,Media,Não definido,2026-11-06,5
+CAM004,192.168.1.64,Camera,Media,Não definido,2026-11-06,5
+CAM005,192.168.1.65,Camera,Media,Não definido,2026-11-06,5
+CAM006,192.168.1.66,Camera,Media,Não definido,2026-11-06,5
+CAM007,192.168.1.67,Camera,Media,Não definido,2026-11-06,5
+CAM008,192.168.1.68,Camera,Media,Não definido,2026-11-06,5
+CAM009,192.168.1.69,Camera,Media,Não definido,2026-11-06,5
+CAM010,192.168.1.70,Camera,Media,Não definido,2026-11-06,5
+IOT001,192.168.1.71,IoT,Media,Não definido,2026-11-06,5
+IOT002,192.168.1.72,IoT,Media,Não definido,2026-11-06,5
+IOT003,192.168.1.73,IoT,Media,Não definido,2026-11-06,5
+IOT004,192.168.1.74,IoT,Media,Não definido,2026-11-06,5
+IOT005,192.168.1.75,IoT,Media,Não definido,2026-11-06,5
+IOT006,192.168.1.76,IoT,Media,Não definido,2026-11-06,5
+IOT007,192.168.1.77,IoT,Media,Não definido,2026-11-06,5
+IOT008,192.168.1.78,IoT,Media,Não definido,2026-11-06,5
+IOT009,192.168.1.79,IoT,Media,Não definido,2026-11-06,5
+IOT010,192.168.1.80,IoT,Media,Não definido,2026-11-06,5
+PC001,192.168.1.81,Windows,Media,Online,2026-11-06,5
+PC002,192.168.1.82,Windows,Media,Online,2026-11-06,5
+PC003,192.168.1.83,Windows,Media,Online,2026-11-06,5
+PC004,192.168.1.84,Windows,Media,Online,2026-11-06,5
+PC005,192.168.1.85,Windows,Media,Online,2026-11-06,5
+PC006,192.168.1.86,Windows,Media,Online,2026-11-06,5
+PC007,192.168.1.87,Windows,Media,Online,2026-11-06,5
+PC008,192.168.1.88,Windows,Media,Online,2026-11-06,5
+PC009,192.168.1.89,Windows,Media,Online,2026-11-06,5
+PC010,192.168.1.90,Windows,Media,Online,2026-11-06,5
+SRVBKP001,192.168.1.91,Linux,Media,Em Monitoramento,2026-11-06,5
+SRVBKP002,192.168.1.92,Linux,Media,Em Monitoramento,2026-11-06,5
+SRVBKP003,192.168.1.93,Linux,Media,Em Monitoramento,2026-11-06,5
+SRVBKP004,192.168.1.94,Linux,Media,Em Monitoramento,2026-11-06,5
+SRVBKP005,192.168.1.95,Linux,Media,Em Monitoramento,2026-11-06,5
+NAS001,192.168.1.96,Storage,Media,Não definido,2026-11-06,5
+NAS002,192.168.1.97,Storage,Media,Não definido,2026-11-06,5
+NAS003,192.168.1.98,Storage,Media,Não definido,2026-11-06,5
+NAS004,192.168.1.99,Storage,Media,Não definido,2026-11-06,5
+NAS005,192.168.1.100,Storage,Media,Não definido,2026-11-06,5
